@@ -30,4 +30,4 @@ To build a strong foundation in software and electronics engineering and contrib
 ##  Contact
 - *GitHub:* https://github.com/romapanchal15
 - *Email:* romapanchal15@gmail.com
-- *Linkedin:* https://www.linkedin.com/in/roma-panchal-7b3749323?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app
+- *Linkedin:* https://www.linkedin.com/in/roma-panchal-7b3749323
